@@ -1,0 +1,27 @@
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+*.swp
+~$*
+.idea/
+.vscode/
+
+# Keep source text and notes in Git; store large source materials locally only.
+materials/inbox/*.pdf
+materials/inbox/*.doc
+materials/inbox/*.docx
+materials/inbox/*.ppt
+materials/inbox/*.pptx
+materials/inbox/*.xls
+materials/inbox/*.xlsx
+materials/inbox/*.zip
+materials/inbox/*.rar
+materials/inbox/*.7z
+materials/inbox/*.mp3
+materials/inbox/*.mp4
+materials/inbox/*.png
+materials/inbox/*.jpg
+materials/inbox/*.jpeg
