@@ -18,7 +18,9 @@
 ## 课程结束后的沉淀
 
 - 当天三句全部完成后，创建或更新 `daily/YYYY-MM-DD.md`。
-- 将新词组去重写入 `knowledge/vocabulary.md`，将新句式去重写入 `knowledge/grammar-patterns.md`。
+- 每篇每日记录必须有“重点词汇”部分，从当天句子中选择 3～5 个有复用价值的单词、固定搭配或短语，记录中文含义和原句用法。
+- 将当天重点词汇去重写入 `knowledge/vocabulary.md`，记录首次学习日期和掌握状态；已有条目只更新例句或状态，不重复创建。
+- 将新句式去重写入 `knowledge/grammar-patterns.md`。
 - 将本次真实出现的理解偏差写入 `knowledge/common-mistakes.md`，已经稳定掌握的项目更新状态但保留历史。
 - 更新 `CONTEXT.md` 中的最近学习日期、当前能力、薄弱点和下一课建议。
 - 不保存冗长聊天原文；只保存例句、学习者的关键理解、纠正、知识点和掌握状态。
