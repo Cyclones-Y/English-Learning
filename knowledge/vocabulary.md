@@ -5,16 +5,20 @@
 | access to | 对……的访问权限 | `need access to confidential files` | 2026-08-09 | 复习中 |
 | all required documents | 所有必需文档 | `All required documents have been uploaded.` | 2026-08-16 | 已理解 |
 | approve a request | 批准申请 | `The manager approves the request.` | 2026-08-10 | 已理解 |
+| approve changes | 批准修改 | `The security team has approved them.` | 2026-08-22 | 复习中 |
 | be approved | 被批准 | 完整谓语要包含 `be` 的变化形式 | 2026-08-11 | 复习中 |
 | be automatically canceled | 被自动取消 | `The request will be automatically canceled.` | 2026-08-16 | 已理解 |
+| be deployed | 被部署 | `They cannot be deployed.` | 2026-08-22 | 复习中 |
 | be processed | 被处理 | `The application cannot be processed.` | 2026-08-22 | 复习中 |
 | be rejected | 被拒绝 | `The request was still rejected.` | 2026-08-09 | 复习中 |
+| be reviewed | 被审核 | `The updated service must be reviewed.` | 2026-08-22 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
-| by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 已理解 |
+| by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 复习中 |
 | come to a complete stop | 完全停止 | 常见于设备安全提示 | 2026-08-17 | 已理解 |
 | confidential files | 机密文件 | `access to confidential files` | 2026-08-09 | 已理解 |
 | confirmation email | 确认邮件 | `send a confirmation email` | 2026-08-10 | 已理解 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
+| even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
 | gradually increase the speed | 逐渐提高速度 | 跑步机提示 | 2026-08-17 | 已理解 |
 | has expired | 已经过期 | `The document has expired.` | 2026-08-22 | 已理解 |
@@ -27,6 +31,7 @@
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
 | reduce the speed | 降低速度 | 运动安全提示 | 2026-08-17 | 已理解 |
+| reported issue | 已报告／已反馈的问题 | `The reported issue has been resolved.` | 2026-08-22 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |

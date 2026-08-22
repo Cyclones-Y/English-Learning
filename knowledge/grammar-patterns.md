@@ -95,6 +95,15 @@
 
 这里 `that` 后面说明“核实的内容”，不是修饰 `verify` 前面的名词。
 
+关系代词不会增加一个新的人或事物：
+
+> The engineer reviewed the update. The engineer confirms the result.
+> The engineer who reviewed the update confirms the result.
+
+合并后，`who` 替换第二次重复的 `the engineer`，并指回同一个人。翻译时通常把关系从句移到名词前：`the engineer who reviewed it` -> “审核了此次更新的工程师”。
+
+判断 `that` 时先看它前面的内容：名词后的 `that` 可能引导定语从句；`confirm`、`verify` 等动词后的 `that` 通常引出动作的具体内容。内容从句中的 `that` 通常不单独翻译。
+
 ## 10. 过去分词后置修饰
 
 > information provided by the employee
@@ -106,6 +115,11 @@
 - `changes requested by the client`
 - `issues identified during testing`
 - `documents uploaded by users`
+
+需要区分过去分词作修饰语和被动谓语：
+
+- `the updated service`：`updated` 修饰 `service`，表示“更新后的服务”。
+- `the service is updated`：`is updated` 是完整谓语，表示“服务被更新”。
 
 ## 11. 祈使句省略 You
 
@@ -120,3 +134,13 @@
 > The manager approves the request, and the system sends an email to the employee who submitted it.
 
 `it` 指 `the request`，因为 `submit a request` 符合语义，而不是提交邮件。
+
+## 13. Even If
+
+> Even if A, B.
+
+表示“即使 A，B 仍然成立”。A 可以实现，也可以尚未实现；重点是 A 不足以改变 B。
+
+> Even if the changes are completed by Friday, they cannot be deployed unless they are approved.
+
+按时完成修改仍不足以保证部署；批准是另一个必要条件。
