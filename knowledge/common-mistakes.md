@@ -60,3 +60,17 @@
 - 原因：看到第一个过去分词后就结束主语，没有继续寻找内容从句真正的完整谓语。
 - 纠正方法：先展开为 `the backup that was created before the update can be restored`，再确定主语整体是 `the backup that was created before the update`，完整谓语是 `can be restored`。
 - 当前状态：在结构标记后能够识别修饰对象，仍需继续练习自然翻译。
+
+## 10. 把 Confirm 当作“确保”
+
+- 典型表现：把 `must confirm that the changes have been tested` 翻译成“必须确保修改已经测试”，把确认事实写成了保证结果。
+- 原因：`confirm` 和“确保”在中文里都带“确认”色彩，但前者是核实既有事实，后者是促成或保证结果。
+- 纠正方法：把 `confirm` 固定理解为“确认／证实某件事是真的”，与 `ensure` 的“确保做到”分开。
+- 当前状态：已指出，后续在审批和核实类句子中继续训练。
+
+## 11. 把单数职业名词译成集合名词
+
+- 典型表现：把 `the developer who built it` 中的 `developer` 翻译成“开发团队”。
+- 原因：中文习惯用集合概念回指，但原文是单个开发人员。
+- 纠正方法：检查名词是否有 `a`、`the` 和单数动词，区分单数和复数；复数通常有 `-s` 或前面是 `the developers`。
+- 当前状态：已指出，下一课继续巩固。

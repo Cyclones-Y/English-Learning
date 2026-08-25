@@ -134,6 +134,14 @@
 
 两种形式都表示“在更新前创建的备份”。`created` 修饰 `backup`，内容从句的完整谓语仍可能出现在后面，如 `can be restored`。
 
+同样的展开方法适用于其它后置修饰：
+
+- `the changes listed in the ticket` -> `the changes that are listed in the ticket`
+- `the documents submitted by the applicant` -> `the documents that were submitted by the applicant`
+- `the test cases written for it` -> `the test cases that were written for it`
+
+这些修饰语紧跟名词，先确定它们修饰的对象，再找后面真正的完整谓语，例如 `have been tested`、`have been verified`。
+
 ## 11. 祈使句省略 You
 
 > Reduce the speed and take a short break.
