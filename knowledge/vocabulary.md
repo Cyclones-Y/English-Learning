@@ -17,6 +17,7 @@
 | come to a complete stop | 完全停止 | 常见于设备安全提示 | 2026-08-17 | 已理解 |
 | confidential files | 机密文件 | `access to confidential files` | 2026-08-09 | 已理解 |
 | confirmation email | 确认邮件 | `send a confirmation email` | 2026-08-10 | 已理解 |
+| confidential details | 机密细节 | `remove the confidential details` | 2026-08-24 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
@@ -27,12 +28,16 @@
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
+| missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
 | need access to | 需要访问……的权限 | `need` 是从句中的动词 | 2026-08-09 | 复习中 |
+| original files | 原始文件 | `before the original files are deleted` | 2026-08-24 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
 | reduce the speed | 降低速度 | 运动安全提示 | 2026-08-17 | 已理解 |
 | reported issue | 已报告／已反馈的问题 | `The reported issue has been resolved.` | 2026-08-22 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
+| restore a backup | 恢复备份 | `The backup can be restored.` | 2026-08-24 | 复习中 |
+| review the logs | 检查日志 | `the engineer who reviewed the logs` | 2026-08-24 | 复习中 |
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |

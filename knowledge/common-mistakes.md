@@ -23,10 +23,10 @@
 
 ## 4. 修饰对象判断错误
 
-- 典型表现：没有识别 `provided by the employee` 修饰 `information`，或把 `who submitted it` 误认为修饰 `system`；把 `the updated service` 理解成“问题解决后再更新服务”。
+- 典型表现：没有识别 `provided by the employee` 修饰 `information`，或把 `who submitted it` 误认为修饰 `system`；把 `the updated service` 理解成“问题解决后再更新服务”；把 `the analyst who prepared it` 译成“准备好的分析师”。
 - 原因：没有先确定修饰块紧跟的名词。
 - 纠正方法：给修饰块加括号，并先测试“哪一个名词 + 这个修饰块”语义完整。
-- 当前状态：重点复习，尤其需要区分过去分词作后置修饰和被动谓语。
+- 当前状态：重点复习，尤其需要区分过去分词作修饰语和被动谓语，并将英文后置修饰转换为中文前置修饰。
 
 ## 5. 代词只按距离判断
 
@@ -53,3 +53,10 @@
 - 原因：还没有把长句还原成两个简单句，也没有先问“确认什么”。
 - 纠正方法：把 `the engineer who reviewed it` 展开为重复主语的两个简单句，再用 `who` 替换第二次重复；遇到动词后的 `that`，用“动词 + 什么”确定内容从句。
 - 当前状态：经拆句和短语翻译后已经初步理解，下一课继续复习。
+
+## 9. 没有保持内容从句的主语边界
+
+- 典型表现：把 `the backup created before the update can be restored` 拆成“备份创建，更新前能够恢复”，导致 `created before the update` 和 `can be restored` 的关系错位。
+- 原因：看到第一个过去分词后就结束主语，没有继续寻找内容从句真正的完整谓语。
+- 纠正方法：先展开为 `the backup that was created before the update can be restored`，再确定主语整体是 `the backup that was created before the update`，完整谓语是 `can be restored`。
+- 当前状态：在结构标记后能够识别修饰对象，仍需继续练习自然翻译。

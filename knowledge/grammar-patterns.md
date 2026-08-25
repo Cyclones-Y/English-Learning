@@ -104,6 +104,12 @@
 
 判断 `that` 时先看它前面的内容：名词后的 `that` 可能引导定语从句；`confirm`、`verify` 等动词后的 `that` 通常引出动作的具体内容。内容从句中的 `that` 通常不单独翻译。
 
+内容从句较长时，先用问题确定边界：
+
+> The administrator must confirm that the backup can be restored.
+
+问“管理员必须确认什么”，答案 `the backup can be restored` 就是完整内容。翻译时可先处理为“管理员必须确认 + 备份能够恢复”，再加入修饰语。
+
 ## 10. 过去分词后置修饰
 
 > information provided by the employee
@@ -120,6 +126,13 @@
 
 - `the updated service`：`updated` 修饰 `service`，表示“更新后的服务”。
 - `the service is updated`：`is updated` 是完整谓语，表示“服务被更新”。
+
+遇到省略 `that was` 的过去分词修饰语，可以先展开：
+
+> the backup created before the update
+> the backup that was created before the update
+
+两种形式都表示“在更新前创建的备份”。`created` 修饰 `backup`，内容从句的完整谓语仍可能出现在后面，如 `can be restored`。
 
 ## 11. 祈使句省略 You
 
