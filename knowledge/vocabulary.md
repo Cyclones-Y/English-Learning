@@ -19,6 +19,7 @@
 | confirmation email | 确认邮件 | `send a confirmation email` | 2026-08-10 | 已理解 |
 | confidential details | 机密细节 | `remove the confidential details` | 2026-08-24 | 复习中 |
 | confirm that | 确认（事实） | `must confirm that the changes have been tested` | 2026-08-25 | 复习中 |
+| configuration | 配置；配置项 | `the configuration changed during maintenance` | 2026-08-27 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
@@ -29,6 +30,7 @@
 | has been verified | 已经被核实 | `The information has been verified.` | 2026-08-16 | 复习中 |
 | import information automatically | 自动导入信息 | 与手动录入形成对比 | 2026-08-10 | 已理解 |
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
+| implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
@@ -48,6 +50,7 @@
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |
 | submit a request | 提交申请 | 不要与 `provide information` 混淆 | 2026-08-09 | 已理解 |
+| temporary account | 临时账户 | `permissions assigned to the temporary account` | 2026-08-27 | 复习中 |
 | support team | 支持团队 | `requested by the support team` | 2026-08-25 | 复习中 |
 | take a short break | 短暂休息一下 | `take a break` 是固定搭配 | 2026-08-17 | 已理解 |
 | test cases | 测试用例 | `the test cases written for it` | 2026-08-25 | 复习中 |

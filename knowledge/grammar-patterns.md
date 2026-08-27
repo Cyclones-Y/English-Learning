@@ -165,3 +165,11 @@
 > Even if the changes are completed by Friday, they cannot be deployed unless they are approved.
 
 按时完成修改仍不足以保证部署；批准是另一个必要条件。
+
+## 14. 完成时被动语态与情态被动语态
+
+- `has/have been + 过去分词`：表示动作已经完成，如 `has been restored`（已经被恢复）。
+- `had been + 过去分词`：表示动作在另一个过去动作之前已经完成，如 `had been resolved`（当时已经被解决）。
+- `can be + 过去分词`：表示动作能够或可以发生，如 `can be restored`（能够被恢复）。
+
+不能因为三者都含有 `be + 过去分词` 就忽略前面的 `has/have`、`had` 或 `can`；它们决定动作是已经完成、过去的过去，还是仅表示可能或能力。

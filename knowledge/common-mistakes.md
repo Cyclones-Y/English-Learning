@@ -74,3 +74,17 @@
 - 原因：中文习惯用集合概念回指，但原文是单个开发人员。
 - 纠正方法：检查名词是否有 `a`、`the` 和单数动词，区分单数和复数；复数通常有 `-s` 或前面是 `the developers`。
 - 当前状态：已指出，下一课继续巩固。
+
+## 12. 混淆完成时被动与情态被动
+
+- 典型表现：把 `has been restored` 翻译为“能够被恢复”。
+- 原因：看到 `be + 过去分词` 后只识别了被动含义，忽略了前面的 `has` 与 `can` 所表达的时间和情态差异。
+- 纠正方法：把完整谓语作为整体比较：`has been restored` 是“已经被恢复”，`can be restored` 是“能够被恢复”。
+- 当前状态：经多次对比后能够确认原句表示动作已经完成，仍需间隔复习。
+
+## 13. 把内容从句谓语当作外层从句谓语
+
+- 典型表现：在 `the developer ... confirmed that the issue had been resolved` 中，把 `had been resolved` 当作 `Although` 从句的完整谓语，漏掉外层谓语 `confirmed`。
+- 原因：注意力停留在较长的被动结构，没有先确定 `confirm that...` 的外层框架。
+- 纠正方法：先问“开发人员做了什么”，得到 `confirmed`；再问“确认了什么”，得到 `that...had been resolved`。
+- 当前状态：新发现，下一课重点复习。
