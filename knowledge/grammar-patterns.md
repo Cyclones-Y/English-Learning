@@ -173,3 +173,18 @@
 - `can be + 过去分词`：表示动作能够或可以发生，如 `can be restored`（能够被恢复）。
 
 不能因为三者都含有 `be + 过去分词` 就忽略前面的 `has/have`、`had` 或 `can`；它们决定动作是已经完成、过去的过去，还是仅表示可能或能力。
+
+## 15. Once
+
+> Once A, B.
+
+表示“一旦 A 发生，B 就发生或变得可能”。A 是 B 的前提条件，重点在“A 发生后 B 才有条件发生”。
+
+> Once the engineer confirms that the records have been recovered, the service can be restarted.
+
+`once` 从句的完整谓语是 `confirms`；`that...have been recovered` 是 `confirms` 的内容从句。实际顺序是“记录恢复 -> 工程师确认 -> 服务可以重启”。
+
+被动语态要作为整体理解：
+
+- `has been transferred`：已经被转移，表示动作已经完成。
+- 它不是主动的“某人完成了转移”，不能丢掉 `has been` 而只取“转移”。

@@ -10,8 +10,10 @@
 | be automatically canceled | 被自动取消 | `The request will be automatically canceled.` | 2026-08-16 | 已理解 |
 | be deployed | 被部署 | `They cannot be deployed.` | 2026-08-22 | 复习中 |
 | be processed | 被处理 | `The application cannot be processed.` | 2026-08-22 | 复习中 |
+| be recovered | 被恢复 | `The records have been recovered.` | 2026-08-29 | 复习中 |
 | be rejected | 被拒绝 | `The request was still rejected.` | 2026-08-09 | 复习中 |
 | be reviewed | 被审核 | `The updated service must be reviewed.` | 2026-08-22 | 复习中 |
+| broken server | 损坏的服务器 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
 | by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 复习中 |
 | come to a complete stop | 完全停止 | 常见于设备安全提示 | 2026-08-17 | 已理解 |
@@ -20,7 +22,9 @@
 | confidential details | 机密细节 | `remove the confidential details` | 2026-08-24 | 复习中 |
 | confirm that | 确认（事实） | `must confirm that the changes have been tested` | 2026-08-25 | 复习中 |
 | configuration | 配置；配置项 | `the configuration changed during maintenance` | 2026-08-27 | 复习中 |
+| contractor | 外包人员 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
+| deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
@@ -35,8 +39,12 @@
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
 | need access to | 需要访问……的权限 | `need` 是从句中的动词 | 2026-08-09 | 复习中 |
+| new account | 新账户 | `permissions assigned to the new account` | 2026-08-29 | 复习中 |
+| old disk | 旧磁盘 | `stored on the old disk` | 2026-08-29 | 复习中 |
+| once | 一旦……就…… | `Once the engineer confirms...` | 2026-08-29 | 复习中 |
 | original files | 原始文件 | `before the original files are deleted` | 2026-08-24 | 复习中 |
 | pass a test | 通过测试 | `The test cases have all passed.` | 2026-08-25 | 复习中 |
+| proceed | 继续进行 | `The deployment cannot proceed.` | 2026-08-29 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
 | release notes | 发布说明 | `the reviewer who checked the release notes` | 2026-08-25 | 复习中 |
@@ -44,6 +52,7 @@
 | reported issue | 已报告／已反馈的问题 | `The reported issue has been resolved.` | 2026-08-22 | 复习中 |
 | reviewer | 审核人员 | `the reviewer who checked...` | 2026-08-25 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
+| replace | 更换、替换 | `replaced the broken server` | 2026-08-29 | 复习中 |
 | restore a backup | 恢复备份 | `The backup can be restored.` | 2026-08-24 | 复习中 |
 | review the logs | 检查日志 | `the engineer who reviewed the logs` | 2026-08-24 | 复习中 |
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
@@ -54,6 +63,7 @@
 | support team | 支持团队 | `requested by the support team` | 2026-08-25 | 复习中 |
 | take a short break | 短暂休息一下 | `take a break` 是固定搭配 | 2026-08-17 | 已理解 |
 | test cases | 测试用例 | `the test cases written for it` | 2026-08-25 | 复习中 |
+| transfer data | 转移数据 | `the data has been transferred` | 2026-08-29 | 复习中 |
 | until further notice | 直至另行通知 | 当前状态持续到收到后续通知 | 2026-08-09 | 已理解 |
 | unusually tired | 异常疲劳 | 不只是普通的“非常累” | 2026-08-17 | 已理解 |
 | verify information | 核实信息 | `verify that...` 表示核实某个内容 | 2026-08-11 | 复习中 |

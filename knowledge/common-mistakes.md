@@ -88,3 +88,17 @@
 - 原因：注意力停留在较长的被动结构，没有先确定 `confirm that...` 的外层框架。
 - 纠正方法：先问“开发人员做了什么”，得到 `confirmed`；再问“确认了什么”，得到 `that...had been resolved`。
 - 当前状态：新发现，下一课重点复习。
+
+## 14. 把过去分词修饰语拆成独立动作
+
+- 典型表现：把 `the permissions assigned to the new account` 翻译成“权限被分配给了新账户”，再另起一句“已经被核实”，破坏了修饰语与主语的边界。
+- 原因：看到 `assigned to...` 后把它当成独立的被动动作，没有认识到它紧跟 `permissions` 作后置修饰。
+- 纠正方法：先圈出名词 `the permissions`，再确认 `assigned to the new account` 是对它的修饰，整体作内容从句的主语；完整谓语是后面的 `have been verified`。
+- 当前状态：已指出，下一课继续复习。
+
+## 15. 把被动语态误当主动动作
+
+- 典型表现：把 `the data has been transferred` 说成“数据完成了转移”，把“已经被转移”的被动含义写成主动完成。
+- 原因：`be + 过去分词` 的被动结构被意译后丢掉了 `has been`。
+- 纠正方法：保留 `has been transferred` 的被动和时间含义，译为“已经被转移”，不改成“某人完成转移”。
+- 当前状态：已指出，后续在技术文档句中继续训练。
