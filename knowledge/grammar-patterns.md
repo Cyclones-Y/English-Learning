@@ -188,3 +188,22 @@
 
 - `has been transferred`：已经被转移，表示动作已经完成。
 - 它不是主动的“某人完成了转移”，不能丢掉 `has been` 而只取“转移”。
+
+## 16. As Soon As
+
+> As soon as A, B.
+
+表示“A 一发生，B 就发生或变得可能”，比普通的 `after` 更强调两个动作紧密相接。
+
+> As soon as the engineer confirms that the rules have been restored, the application can be reopened.
+
+实际顺序是“规则恢复 -> 工程师确认 -> 应用程序可以重新启用”。`as soon as` 从句的外层谓语是 `confirms`，`have been restored` 是 `that` 内容从句的谓语。
+
+## 17. Confirm / Verify 与 Ensure
+
+- `confirm/verify that...`：确认或核实某个事实是否成立。
+- `ensure that...`：确保某个结果实现或某种状态成立。
+
+> The developer must ensure that the temporary files have been deleted.
+
+这里不只是核实信息，而是要求开发人员保证删除结果已经实现。三者后面的 `that...` 都是具体内容，不属于外层完整谓语本身。

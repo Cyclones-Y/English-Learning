@@ -3,7 +3,9 @@
 | 表达 | 含义 | 例句或说明 | 首次记录 | 状态 |
 | --- | --- | --- | --- | --- |
 | access to | 对……的访问权限 | `need access to confidential files` | 2026-08-09 | 复习中 |
+| access rules | 访问规则 | `the access rules changed during the update` | 2026-08-31 | 复习中 |
 | all required documents | 所有必需文档 | `All required documents have been uploaded.` | 2026-08-16 | 已理解 |
+| as soon as | 一……就…… | `As soon as the engineer confirms...` | 2026-08-31 | 复习中 |
 | approve a request | 批准申请 | `The manager approves the request.` | 2026-08-10 | 已理解 |
 | approve changes | 批准修改 | `The security team has approved them.` | 2026-08-22 | 复习中 |
 | be approved | 被批准 | 完整谓语要包含 `be` 的变化形式 | 2026-08-11 | 复习中 |
@@ -26,6 +28,7 @@
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
+| ensure that | 确保…… | `must ensure that the temporary files have been deleted` | 2026-08-31 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
 | feature | 功能 | `The feature cannot be released.` | 2026-08-25 | 复习中 |
@@ -38,6 +41,7 @@
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
+| migration | 迁移 | `The migration cannot be completed.` | 2026-08-31 | 复习中 |
 | need access to | 需要访问……的权限 | `need` 是从句中的动词 | 2026-08-09 | 复习中 |
 | new account | 新账户 | `permissions assigned to the new account` | 2026-08-29 | 复习中 |
 | old disk | 旧磁盘 | `stored on the old disk` | 2026-08-29 | 复习中 |
@@ -60,6 +64,7 @@
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |
 | submit a request | 提交申请 | 不要与 `provide information` 混淆 | 2026-08-09 | 已理解 |
 | temporary account | 临时账户 | `permissions assigned to the temporary account` | 2026-08-27 | 复习中 |
+| temporary files | 临时文件 | `temporary files created during testing` | 2026-08-31 | 复习中 |
 | support team | 支持团队 | `requested by the support team` | 2026-08-25 | 复习中 |
 | take a short break | 短暂休息一下 | `take a break` 是固定搭配 | 2026-08-17 | 已理解 |
 | test cases | 测试用例 | `the test cases written for it` | 2026-08-25 | 复习中 |
