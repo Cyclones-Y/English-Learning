@@ -6,9 +6,11 @@
 | access rules | 访问规则 | `the access rules changed during the update` | 2026-08-31 | 复习中 |
 | all required documents | 所有必需文档 | `All required documents have been uploaded.` | 2026-08-16 | 已理解 |
 | as soon as | 一……就…… | `As soon as the engineer confirms...` | 2026-08-31 | 复习中 |
+| attention mechanism | 注意力机制 | `based solely on attention mechanisms` | 2026-09-01 | 复习中 |
 | approve a request | 批准申请 | `The manager approves the request.` | 2026-08-10 | 已理解 |
 | approve changes | 批准修改 | `The security team has approved them.` | 2026-08-22 | 复习中 |
 | be approved | 被批准 | 完整谓语要包含 `be` 的变化形式 | 2026-08-11 | 复习中 |
+| be based on | 基于…… | `models are based on...networks` | 2026-09-01 | 复习中 |
 | be automatically canceled | 被自动取消 | `The request will be automatically canceled.` | 2026-08-16 | 已理解 |
 | be deployed | 被部署 | `They cannot be deployed.` | 2026-08-22 | 复习中 |
 | be processed | 被处理 | `The application cannot be processed.` | 2026-08-22 | 复习中 |
@@ -27,6 +29,7 @@
 | contractor | 外包人员 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
+| dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | ensure that | 确保…… | `must ensure that the temporary files have been deleted` | 2026-08-31 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
@@ -48,6 +51,7 @@
 | once | 一旦……就…… | `Once the engineer confirms...` | 2026-08-29 | 复习中 |
 | original files | 原始文件 | `before the original files are deleted` | 2026-08-24 | 复习中 |
 | pass a test | 通过测试 | `The test cases have all passed.` | 2026-08-25 | 复习中 |
+| parallelizable | 可并行化的 | `being more parallelizable` | 2026-09-01 | 复习中 |
 | proceed | 继续进行 | `The deployment cannot proceed.` | 2026-08-29 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
@@ -61,6 +65,7 @@
 | review the logs | 检查日志 | `the engineer who reviewed the logs` | 2026-08-24 | 复习中 |
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |
+| sequence transduction | 序列转换 | `sequence transduction models` | 2026-09-01 | 复习中 |
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |
 | submit a request | 提交申请 | 不要与 `provide information` 混淆 | 2026-08-09 | 已理解 |
 | temporary account | 临时账户 | `permissions assigned to the temporary account` | 2026-08-27 | 复习中 |

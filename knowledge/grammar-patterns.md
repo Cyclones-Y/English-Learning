@@ -207,3 +207,21 @@
 > The developer must ensure that the temporary files have been deleted.
 
 这里不只是核实信息，而是要求开发人员保证删除结果已经实现。三者后面的 `that...` 都是具体内容，不属于外层完整谓语本身。
+
+## 18. 同位语
+
+> a new simple network architecture, the Transformer
+
+`the Transformer` 为前面的 `a new simple network architecture` 命名，两者指同一个事物。翻译时可以使用破折号：“一种新的简单网络架构——Transformer”。
+
+## 19. Show A to Be B
+
+> Experiments show these models to be superior in quality.
+
+常用于论文中陈述实验或证据得到的结论，表示“实验表明这些模型在质量方面更加优秀”。先找主干 `Experiments show...`，再把 `these models` 看作 A，把 `to be superior in quality` 看作对 A 的判断 B。
+
+句末的分词结构可以共享同一个逻辑主语：
+
+> while being more parallelizable and requiring less time to train
+
+这里 `being` 和 `requiring` 的逻辑主语都是前面的 `these models`，表示这些模型同时更容易并行化且需要更少的训练时间。
