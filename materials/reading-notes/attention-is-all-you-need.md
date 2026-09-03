@@ -58,3 +58,43 @@
 - 把 `are based on` 的完整谓语写成 `are based`：固定搭配中的介词不能省略。
 - 把 `sequence transduction` 直接限定为“序列翻译”：该术语范围更广，应译为“序列转换”。
 - 第一次遇到 `show A to be B` 时无法分析：先压缩为 `Experiments show...`，再识别 A 和 B，能够顺利提取三项实验结论。
+
+## 2026-09-03：摘要实验结果与泛化能力
+
+### 4. 英译德成绩与领先幅度
+
+> Our model achieves 28.4 BLEU on the WMT 2014 English to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU.
+
+- 主干：`Our model achieves 28.4 BLEU.`
+- `improving over...` 补充说明成绩相比此前最佳结果有所提升。
+- `by over 2 BLEU` 是领先幅度，最终成绩是 `28.4 BLEU`。
+
+### 5. 英译法成绩与训练成本
+
+> On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature.
+
+- 主干：`our model establishes a ... score`。
+- 宾语中心词是 `score`，`single-model` 与 `state-of-the-art` 都是修饰语。
+- 训练条件为八块 GPU、3.5 天；成本仅为此前最佳模型的一小部分。
+
+### 6. 泛化到其他任务
+
+> We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.
+
+- 主干：`We show that...`，`that...` 是内容从句。
+- `by applying...` 说明证明泛化能力的方法和证据。
+- Transformer 在训练数据充足和有限两种条件下都成功用于英语成分句法分析。
+
+### 本次新增表达
+
+- `improve over`：相比……提升；超过……。
+- `by + 数值`：表示差值或变化幅度。
+- `a small fraction of`：……的一小部分。
+- `generalize well to`：很好地泛化到……。
+- `by doing`：通过做……，说明方法或证据。
+
+### 本次真实错误和纠正
+
+- 把长宾语只划为 `single-model`：形容词不能单独充当这里的宾语，应继续找到中心词 `score`。
+- 把 `single-model` 译为“单体模型”：论文语境中应译为“单模型”。
+- 没有补全 `both with large and limited training data`：该部分表示在数据充足和有限两种条件下都成立。

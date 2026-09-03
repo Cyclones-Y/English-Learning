@@ -2,6 +2,7 @@
 
 | 表达 | 含义 | 例句或说明 | 首次记录 | 状态 |
 | --- | --- | --- | --- | --- |
+| a small fraction of | ……的一小部分 | `a small fraction of the training costs` | 2026-09-03 | 复习中 |
 | access to | 对……的访问权限 | `need access to confidential files` | 2026-08-09 | 复习中 |
 | access rules | 访问规则 | `the access rules changed during the update` | 2026-08-31 | 复习中 |
 | all required documents | 所有必需文档 | `All required documents have been uploaded.` | 2026-08-16 | 已理解 |
@@ -30,15 +31,18 @@
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
+| ensemble | 集成模型 | `including ensembles` | 2026-09-03 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | ensure that | 确保…… | `must ensure that the temporary files have been deleted` | 2026-08-31 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
 | feature | 功能 | `The feature cannot be released.` | 2026-08-25 | 复习中 |
+| generalize well to | 很好地泛化到…… | `generalizes well to other tasks` | 2026-09-03 | 复习中 |
 | gradually increase the speed | 逐渐提高速度 | 跑步机提示 | 2026-08-17 | 已理解 |
 | has expired | 已经过期 | `The document has expired.` | 2026-08-22 | 已理解 |
 | has been verified | 已经被核实 | `The information has been verified.` | 2026-08-16 | 复习中 |
 | import information automatically | 自动导入信息 | 与手动录入形成对比 | 2026-08-10 | 已理解 |
+| improve over | 相比……提升；超过…… | `improving over the existing best results` | 2026-09-03 | 复习中 |
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
@@ -66,6 +70,7 @@
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |
 | sequence transduction | 序列转换 | `sequence transduction models` | 2026-09-01 | 复习中 |
+| state-of-the-art | 当时最先进的；当时最佳的 | `state-of-the-art BLEU score` | 2026-09-03 | 复习中 |
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |
 | submit a request | 提交申请 | 不要与 `provide information` 混淆 | 2026-08-09 | 已理解 |
 | temporary account | 临时账户 | `permissions assigned to the temporary account` | 2026-08-27 | 复习中 |

@@ -225,3 +225,24 @@
 > while being more parallelizable and requiring less time to train
 
 这里 `being` 和 `requiring` 的逻辑主语都是前面的 `these models`，表示这些模型同时更容易并行化且需要更少的训练时间。
+
+## 20. By 表示幅度与方法
+
+`by` 在论文中常见的两种用法需要结合后面的成分判断：
+
+- `improve by over 2 BLEU`：`by + 数值` 表示提升幅度，即“提升超过 2 BLEU”。
+- `show...by applying it...`：`by + doing` 表示方法，即“通过应用它来证明……”。
+
+不要把表示幅度的数值误认为最终成绩，也不要把 `by doing` 误认为时间从句。
+
+## 21. 长宾语的中心词
+
+> establishes a new single-model state-of-the-art BLEU score of 41.8
+
+宾语整体较长，但中心词是 `score`。`new`、`single-model`、`state-of-the-art` 和 `BLEU` 都在限定该分数，`of 41.8` 给出具体数值。分析时不能停在第一个形容词 `single-model`。
+
+## 22. Both With A and B
+
+> both with large and limited training data
+
+表示“在训练数据充足和有限两种条件下都……”。`both` 提示后面有两个并列条件；翻译时要把两项共同依赖的 `with` 和句中动作补全。
