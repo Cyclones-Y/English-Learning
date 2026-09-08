@@ -28,9 +28,11 @@
 | confirm that | 确认（事实） | `must confirm that the changes have been tested` | 2026-08-25 | 复习中 |
 | configuration | 配置；配置项 | `the configuration changed during maintenance` | 2026-08-27 | 复习中 |
 | contractor | 外包人员 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
+| create a separate backup | 创建单独的备份 | `created a separate backup` | 2026-09-08 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
+| document recovery steps | 记录恢复步骤 | `documented every recovery step` | 2026-09-08 | 复习中 |
 | ensemble | 集成模型 | `including ensembles` | 2026-09-03 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
 | ensure that | 确保…… | `must ensure that the temporary files have been deleted` | 2026-08-31 | 复习中 |
@@ -65,11 +67,13 @@
 | reviewer | 审核人员 | `the reviewer who checked...` | 2026-08-25 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
 | replace | 更换、替换 | `replaced the broken server` | 2026-08-29 | 复习中 |
+| restart a service | 重启服务 | `the service could be restarted quickly` | 2026-09-08 | 复习中 |
 | restore a backup | 恢复备份 | `The backup can be restored.` | 2026-08-24 | 复习中 |
 | review the logs | 检查日志 | `the engineer who reviewed the logs` | 2026-08-24 | 复习中 |
 | required information | 必要信息／必填信息 | `required` 修饰 `information` | 2026-08-19 | 已理解 |
 | running pace | 跑步速度／跑步节奏 | `a comfortable running pace` | 2026-08-17 | 已理解 |
 | sequence transduction | 序列转换 | `sequence transduction models` | 2026-09-01 | 复习中 |
+| so that | 以便；为了使…… | `so that the files could be restored` | 2026-09-08 | 复习中 |
 | state-of-the-art | 当时最先进的；当时最佳的 | `state-of-the-art BLEU score` | 2026-09-03 | 复习中 |
 | step off the treadmill | 从跑步机上下来 | `step off` 整体理解 | 2026-08-17 | 已理解 |
 | submit a request | 提交申请 | 不要与 `provide information` 混淆 | 2026-08-09 | 已理解 |
@@ -84,3 +88,4 @@
 | verify information | 核实信息 | `verify that...` 表示核实某个内容 | 2026-08-11 | 复习中 |
 | warm up / warm-up | 热身／热身活动 | 前者常作动词，后者可作名词 | 2026-08-17 | 已理解 |
 | without further notice | 不再另行通知 | 不等于 `until further notice` | 2026-08-09 | 已理解 |
+| without waiting for assistance | 无需等待协助 | `restore the database without waiting...` | 2026-09-08 | 复习中 |

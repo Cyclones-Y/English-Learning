@@ -246,3 +246,20 @@
 > both with large and limited training data
 
 表示“在训练数据充足和有限两种条件下都……”。`both` 提示后面有两个并列条件；翻译时要把两项共同依赖的 `with` 和句中动作补全。
+
+## 23. So That 表示目的
+
+> The administrator created a backup so that the files could be restored.
+
+`so that` 引导目的从句，说明主句动作希望实现什么结果，通常译为“以便……／为了使……”。它回答“为什么要做主句动作”，但语法关系是目的，不是说明主句已经发生的原因。
+
+目的从句常使用 `can/could`：
+
+- `so that the service could be restarted`：以便服务能够被重启。
+- 完整谓语是 `could be restarted`，不能只取情态动词 `could`。
+
+## 24. Without Doing
+
+> restore the database without waiting for assistance
+
+`without + 动名词` 表示在不进行某个动作的情况下完成另一动作，即“无需等待协助就恢复数据库”。`without waiting...` 修饰 `restore`，不表示“不接触协助”。
