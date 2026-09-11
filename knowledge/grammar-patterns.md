@@ -263,3 +263,24 @@
 > restore the database without waiting for assistance
 
 `without + 动名词` 表示在不进行某个动作的情况下完成另一动作，即“无需等待协助就恢复数据库”。`without waiting...` 修饰 `restore`，不表示“不接触协助”。
+
+## 25. In Case 表示预防性准备
+
+> Save the previous configuration in case the service fails.
+
+`in case` 表示“以防／万一／以备”，说明现在采取某项措施，是为了应对将来可能出现的问题。采取措施不能阻止问题发生，因此不要机械翻译成带有“阻止”含义的“以防止”。
+
+对比：
+
+- `because the service failed`：因为服务已经发生故障，说明原因。
+- `if the service fails`：如果服务发生故障，说明条件。
+- `in case the service fails`：为服务可能发生故障提前准备。
+
+## 26. In Case 与 Only If
+
+> The team prepared a rollback plan in case the application became unstable, but they would use it only if users were affected.
+
+- `in case` 解释为什么预先准备回滚方案。
+- `only if` 表示真正采取行动的必要条件，即“只有用户受到影响时才使用”。
+
+准备方案不等于一定执行方案。阅读时要分别回答“为什么准备”和“什么条件下执行”。

@@ -5,7 +5,7 @@
 - 典型表现：把 `must be completed` 只写成 `be completed`，把 `may be rejected` 只写成 `rejected`，把 `was still rejected` 只写成 `was`；或把修饰语中的词并入谓语，如 `testing have been resolved`。
 - 原因：只寻找实义动词或助动词，没有把情态动词、助动词和过去分词作为整体。
 - 纠正方法：回答谓语时，从情态动词或助动词开始完整抄到主要动词。
-- 当前状态：重点复习；2026-09-08 两次把 `could be restored/restarted` 只写成 `could`，说明情态被动谓语仍未稳定。
+- 当前状态：重点复习；2026-09-11 仍把 `could be restored quickly` 只写成 `could`，说明情态被动谓语尚未稳定。
 
 ## 2. 把从句动词当作主句谓语
 
@@ -165,3 +165,10 @@
 - 原因：没有把 `wait for assistance` 作为完整意群理解。
 - 纠正方法：先识别 `wait for assistance`（等待协助），再在整体前加 `without`，得到“无需等待协助”。
 - 当前状态：已指出，继续按固定搭配和意群积累。
+
+## 25. 把 In Case 理解为阻止问题发生
+
+- 典型表现：把 `in case the service failed` 解释为“防止服务故障”，把 `in case the application became unstable` 译成“以防止应用变得不稳定”。
+- 原因：中文“以防”和“以防止”形式相近，但前者是提前应对，后者含有阻止结果发生的意思。
+- 纠正方法：把 `in case` 固定理解为“万一发生……，现在先做好准备”；检查主句措施是否真的能阻止从句事件。
+- 当前状态：能够理解提前准备的业务逻辑，但中文用词连续出现偏差，需要重点复习。

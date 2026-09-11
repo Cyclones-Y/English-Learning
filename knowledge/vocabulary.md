@@ -18,6 +18,7 @@
 | be recovered | 被恢复 | `The records have been recovered.` | 2026-08-29 | 复习中 |
 | be rejected | 被拒绝 | `The request was still rejected.` | 2026-08-09 | 复习中 |
 | be reviewed | 被审核 | `The updated service must be reviewed.` | 2026-08-22 | 复习中 |
+| become unstable | 变得不稳定 | `the updated application became unstable` | 2026-09-11 | 复习中 |
 | broken server | 损坏的服务器 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
 | by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 复习中 |
@@ -45,9 +46,11 @@
 | has been verified | 已经被核实 | `The information has been verified.` | 2026-08-16 | 复习中 |
 | import information automatically | 自动导入信息 | 与手动录入形成对比 | 2026-08-10 | 已理解 |
 | improve over | 相比……提升；超过…… | `improving over the existing best results` | 2026-09-03 | 复习中 |
+| in case | 以防；万一；以备 | `in case the service failed` | 2026-09-11 | 复习中 |
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
+| keep a database online | 让数据库保持在线 | `kept the old database online` | 2026-09-11 | 复习中 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
 | migration | 迁移 | `The migration cannot be completed.` | 2026-08-31 | 复习中 |
@@ -55,9 +58,11 @@
 | new account | 新账户 | `permissions assigned to the new account` | 2026-08-29 | 复习中 |
 | old disk | 旧磁盘 | `stored on the old disk` | 2026-08-29 | 复习中 |
 | once | 一旦……就…… | `Once the engineer confirms...` | 2026-08-29 | 复习中 |
+| only if | 只有在……条件下才…… | `use it only if users were affected` | 2026-09-11 | 复习中 |
 | original files | 原始文件 | `before the original files are deleted` | 2026-08-24 | 复习中 |
 | pass a test | 通过测试 | `The test cases have all passed.` | 2026-08-25 | 复习中 |
 | parallelizable | 可并行化的 | `being more parallelizable` | 2026-09-01 | 复习中 |
+| prepare a rollback plan | 准备回滚方案 | `prepared a rollback plan` | 2026-09-11 | 复习中 |
 | proceed | 继续进行 | `The deployment cannot proceed.` | 2026-08-29 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
