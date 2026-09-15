@@ -11,6 +11,7 @@
 | approve a request | 批准申请 | `The manager approves the request.` | 2026-08-10 | 已理解 |
 | approve changes | 批准修改 | `The security team has approved them.` | 2026-08-22 | 复习中 |
 | be approved | 被批准 | 完整谓语要包含 `be` 的变化形式 | 2026-08-11 | 复习中 |
+| be available | 可用；已准备好 | `the rollback plan is available` | 2026-09-15 | 复习中 |
 | be based on | 基于…… | `models are based on...networks` | 2026-09-01 | 复习中 |
 | be automatically canceled | 被自动取消 | `The request will be automatically canceled.` | 2026-08-16 | 已理解 |
 | be deployed | 被部署 | `They cannot be deployed.` | 2026-08-22 | 复习中 |
@@ -30,6 +31,7 @@
 | configuration | 配置；配置项 | `the configuration changed during maintenance` | 2026-08-27 | 复习中 |
 | contractor | 外包人员 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | create a separate backup | 创建单独的备份 | `created a separate backup` | 2026-09-08 | 复习中 |
+| critical error | 严重错误 | `no critical errors are reported` | 2026-09-15 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
@@ -44,6 +46,7 @@
 | gradually increase the speed | 逐渐提高速度 | 跑步机提示 | 2026-08-17 | 已理解 |
 | has expired | 已经过期 | `The document has expired.` | 2026-08-22 | 已理解 |
 | has been verified | 已经被核实 | `The information has been verified.` | 2026-08-16 | 复习中 |
+| if necessary | 如有必要；必要时 | `can be restored if necessary` | 2026-09-15 | 复习中 |
 | import information automatically | 自动导入信息 | 与手动录入形成对比 | 2026-08-10 | 已理解 |
 | improve over | 相比……提升；超过…… | `improving over the existing best results` | 2026-09-03 | 复习中 |
 | in case | 以防；万一；以备 | `in case the service failed` | 2026-09-11 | 复习中 |
@@ -66,10 +69,12 @@
 | proceed | 继续进行 | `The deployment cannot proceed.` | 2026-08-29 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
+| provided that | 条件是……；只要…… | `provided that no critical errors are reported` | 2026-09-15 | 复习中 |
 | release notes | 发布说明 | `the reviewer who checked the release notes` | 2026-08-25 | 复习中 |
 | reduce the speed | 降低速度 | 运动安全提示 | 2026-08-17 | 已理解 |
 | reported issue | 已报告／已反馈的问题 | `The reported issue has been resolved.` | 2026-08-22 | 复习中 |
 | reviewer | 审核人员 | `the reviewer who checked...` | 2026-08-25 | 复习中 |
+| remain online | 保持在线 | 主语自身继续处于在线状态 | 2026-09-15 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
 | replace | 更换、替换 | `replaced the broken server` | 2026-08-29 | 复习中 |
 | restart a service | 重启服务 | `the service could be restarted quickly` | 2026-09-08 | 复习中 |

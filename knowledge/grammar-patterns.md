@@ -284,3 +284,25 @@
 - `only if` 表示真正采取行动的必要条件，即“只有用户受到影响时才使用”。
 
 准备方案不等于一定执行方案。阅读时要分别回答“为什么准备”和“什么条件下执行”。
+
+## 27. Provided That
+
+> The deployment can proceed, provided that the backup has been restored.
+
+`provided that` 引导明确条件，通常译为“条件是……／只要……／前提是……”。它与普通 `if` 意思接近，但更强调只有满足所列前提，主句情况才被允许或成立。
+
+主句中的 `can` 只说明满足条件后“可以”执行，不保证动作一定发生。
+
+## 28. Remain 与 Keep
+
+`remain` 描述主语自身继续处于某种状态：
+
+> The service can remain online.
+
+结构是 `事物 + remain + 状态`，这里没有宾语。
+
+`keep` 可以表示某个执行者让另一个对象维持某种状态：
+
+> The team kept the previous version available.
+
+结构是 `执行者 + keep + 宾语 + 状态`。前者重点描述状态延续，后者强调有人主动维持该状态。
