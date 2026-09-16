@@ -306,3 +306,22 @@
 > The team kept the previous version available.
 
 结构是 `执行者 + keep + 宾语 + 状态`。前者重点描述状态延续，后者强调有人主动维持该状态。
+
+状态不一定是普通形容词，也可以由过去分词短语表达：
+
+> The support team keeps it synchronized with the current database.
+
+这里 `it` 是宾语，`synchronized with...` 表示宾语被维持的状态。
+
+## 29. As Long As
+
+> The backup server will remain online as long as the primary system remains unstable.
+
+`as long as` 可以表示“只要……”，强调主句成立所依赖的条件；当句子描述持续状态时，也可以理解为“在……期间”。上例表示主系统持续不稳定的这段时间内，备用服务器保持在线。
+
+它不等于 `until`：
+
+- `as long as A, B`：A 持续成立时，B 也保持成立。
+- `B until A`：B 持续到 A 这个终点或事件发生。
+
+同时注意：`remain unstable` 是“仍然不稳定”，`become unstable` 才是“变得不稳定”。

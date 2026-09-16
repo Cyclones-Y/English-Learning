@@ -6,10 +6,12 @@
 | access to | 对……的访问权限 | `need access to confidential files` | 2026-08-09 | 复习中 |
 | access rules | 访问规则 | `the access rules changed during the update` | 2026-08-31 | 复习中 |
 | all required documents | 所有必需文档 | `All required documents have been uploaded.` | 2026-08-16 | 已理解 |
+| as long as | 只要；在……期间 | 条件持续成立时，主句状态也保持成立 | 2026-09-16 | 复习中 |
 | as soon as | 一……就…… | `As soon as the engineer confirms...` | 2026-08-31 | 复习中 |
 | attention mechanism | 注意力机制 | `based solely on attention mechanisms` | 2026-09-01 | 复习中 |
 | approve a request | 批准申请 | `The manager approves the request.` | 2026-08-10 | 已理解 |
 | approve changes | 批准修改 | `The security team has approved them.` | 2026-08-22 | 复习中 |
+| backup server | 备用服务器 | 不要把中心词 `server` 译成“系统” | 2026-09-16 | 复习中 |
 | be approved | 被批准 | 完整谓语要包含 `be` 的变化形式 | 2026-08-11 | 复习中 |
 | be available | 可用；已准备好 | `the rollback plan is available` | 2026-09-15 | 复习中 |
 | be based on | 基于…… | `models are based on...networks` | 2026-09-01 | 复习中 |
@@ -54,6 +56,7 @@
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | keep a database online | 让数据库保持在线 | `kept the old database online` | 2026-09-11 | 复习中 |
+| keep something up to date | 让某物保持最新状态 | `keeps its configuration up to date` | 2026-09-16 | 复习中 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
 | migration | 迁移 | `The migration cannot be completed.` | 2026-08-31 | 复习中 |
@@ -76,6 +79,7 @@
 | reviewer | 审核人员 | `the reviewer who checked...` | 2026-08-25 | 复习中 |
 | remain online | 保持在线 | 主语自身继续处于在线状态 | 2026-09-15 | 复习中 |
 | remain unavailable | 一直处于不可用状态 | `remain + adjective` | 2026-08-10 | 复习中 |
+| remain unstable | 仍然不稳定 | 不等于 `become unstable`（变得不稳定） | 2026-09-16 | 复习中 |
 | replace | 更换、替换 | `replaced the broken server` | 2026-08-29 | 复习中 |
 | restart a service | 重启服务 | `the service could be restarted quickly` | 2026-09-08 | 复习中 |
 | restore a backup | 恢复备份 | `The backup can be restored.` | 2026-08-24 | 复习中 |
@@ -90,6 +94,7 @@
 | temporary account | 临时账户 | `permissions assigned to the temporary account` | 2026-08-27 | 复习中 |
 | temporary files | 临时文件 | `temporary files created during testing` | 2026-08-31 | 复习中 |
 | support team | 支持团队 | `requested by the support team` | 2026-08-25 | 复习中 |
+| synchronize A with B | 使 A 与 B 保持同步 | `keep it synchronized with the current database` | 2026-09-16 | 复习中 |
 | take a short break | 短暂休息一下 | `take a break` 是固定搭配 | 2026-08-17 | 已理解 |
 | test cases | 测试用例 | `the test cases written for it` | 2026-08-25 | 复习中 |
 | transfer data | 转移数据 | `the data has been transferred` | 2026-08-29 | 复习中 |
