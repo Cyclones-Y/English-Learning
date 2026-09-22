@@ -17,10 +17,13 @@
 | be based on | 基于…… | `models are based on...networks` | 2026-09-01 | 复习中 |
 | be automatically canceled | 被自动取消 | `The request will be automatically canceled.` | 2026-08-16 | 已理解 |
 | be deployed | 被部署 | `They cannot be deployed.` | 2026-08-22 | 复习中 |
+| be migrated to | 被迁移到 | `has been migrated to the new system` | 2026-09-22 | 复习中 |
 | be processed | 被处理 | `The application cannot be processed.` | 2026-08-22 | 复习中 |
 | be recovered | 被恢复 | `The records have been recovered.` | 2026-08-29 | 复习中 |
 | be rejected | 被拒绝 | `The request was still rejected.` | 2026-08-09 | 复习中 |
+| be removed from | 被从……移除 | `cannot be removed from the server` | 2026-09-22 | 复习中 |
 | be reviewed | 被审核 | `The updated service must be reviewed.` | 2026-08-22 | 复习中 |
+| become stable | 变得稳定 | `the primary system becomes stable` | 2026-09-22 | 复习中 |
 | become unstable | 变得不稳定 | `the updated application became unstable` | 2026-09-11 | 复习中 |
 | broken server | 损坏的服务器 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
@@ -34,6 +37,7 @@
 | contractor | 外包人员 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | create a separate backup | 创建单独的备份 | `created a separate backup` | 2026-09-08 | 复习中 |
 | critical error | 严重错误 | `no critical errors are reported` | 2026-09-15 | 复习中 |
+| customer data | 客户数据 | `all customer data has been migrated` | 2026-09-22 | 复习中 |
 | developer | 开发人员 | `the developer who built it` | 2026-08-25 | 复习中 |
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
@@ -62,6 +66,7 @@
 | migration | 迁移 | `The migration cannot be completed.` | 2026-08-31 | 复习中 |
 | need access to | 需要访问……的权限 | `need` 是从句中的动词 | 2026-08-09 | 复习中 |
 | new account | 新账户 | `permissions assigned to the new account` | 2026-08-29 | 复习中 |
+| new system | 新系统 | `migrated to the new system` | 2026-09-22 | 复习中 |
 | old disk | 旧磁盘 | `stored on the old disk` | 2026-08-29 | 复习中 |
 | once | 一旦……就…… | `Once the engineer confirms...` | 2026-08-29 | 复习中 |
 | only if | 只有在……条件下才…… | `use it only if users were affected` | 2026-09-11 | 复习中 |
@@ -69,6 +74,8 @@
 | pass a test | 通过测试 | `The test cases have all passed.` | 2026-08-25 | 复习中 |
 | parallelizable | 可并行化的 | `being more parallelizable` | 2026-09-01 | 复习中 |
 | prepare a rollback plan | 准备回滚方案 | `prepared a rollback plan` | 2026-09-11 | 复习中 |
+| previous version | 先前版本 | `The previous version cannot be removed.` | 2026-09-22 | 复习中 |
+| primary system | 主系统 | `as long as the primary system is unstable` | 2026-09-22 | 复习中 |
 | proceed | 继续进行 | `The deployment cannot proceed.` | 2026-08-29 | 复习中 |
 | provide information | 提供信息 | 不要与 `submit a request` 混淆 | 2026-08-19 | 已理解 |
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
@@ -98,6 +105,7 @@
 | take a short break | 短暂休息一下 | `take a break` 是固定搭配 | 2026-08-17 | 已理解 |
 | test cases | 测试用例 | `the test cases written for it` | 2026-08-25 | 复习中 |
 | transfer data | 转移数据 | `the data has been transferred` | 2026-08-29 | 复习中 |
+| until | 直到……为止 | `until the primary system becomes stable` | 2026-09-22 | 复习中 |
 | until further notice | 直至另行通知 | 当前状态持续到收到后续通知 | 2026-08-09 | 已理解 |
 | unusually tired | 异常疲劳 | 不只是普通的“非常累” | 2026-08-17 | 已理解 |
 | verify information | 核实信息 | `verify that...` 表示核实某个内容 | 2026-08-11 | 复习中 |

@@ -325,3 +325,16 @@
 - `B until A`：B 持续到 A 这个终点或事件发生。
 
 同时注意：`remain unstable` 是“仍然不稳定”，`become unstable` 才是“变得不稳定”。
+
+用两个只差一处的句子对比，差异最清楚：
+
+> The backup server will remain online as long as the primary system is unstable.
+> The backup server will remain online until the primary system becomes stable.
+
+第一句 `as long as` 表示条件持续：主系统一直不稳定，备用服务器就一直在线。第二句 `until` 表示时间终点：到主系统变稳定这一刻为止，之后状态改变。
+
+两句同时对比了两组词：
+
+- `remain + 状态`：主语自己继续处于该状态（`remain online`）。
+- `become + 状态`：主语进入新的状态（`becomes stable`）。
+- `be + 状态`：只说明当前状态，不强调延续或变化（`is unstable`）。
