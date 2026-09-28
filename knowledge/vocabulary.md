@@ -28,6 +28,7 @@
 | broken server | 损坏的服务器 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
 | by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 复习中 |
+| can be stopped | 可以被停止 | 完整谓语包含 `can be`，不表示一定会停止 | 2026-09-28 | 复习中 |
 | come to a complete stop | 完全停止 | 常见于设备安全提示 | 2026-08-17 | 已理解 |
 | confidential files | 机密文件 | `access to confidential files` | 2026-08-09 | 已理解 |
 | confirmation email | 确认邮件 | `send a confirmation email` | 2026-08-10 | 已理解 |
@@ -60,10 +61,12 @@
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | keep a database online | 让数据库保持在线 | `kept the old database online` | 2026-09-11 | 复习中 |
+| keep A synchronized with B | 使 A 与 B 保持同步 | A 是 `keep` 的宾语，B 是同步对象 | 2026-09-28 | 复习中 |
 | keep something up to date | 让某物保持最新状态 | `keeps its configuration up to date` | 2026-09-16 | 复习中 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |
 | missing records | 缺失的记录 | `The missing records have been restored.` | 2026-08-24 | 复习中 |
 | migration | 迁移 | `The migration cannot be completed.` | 2026-08-31 | 复习中 |
+| monitoring service | 监控服务 | 中心词 `service` 表示“服务” | 2026-09-28 | 复习中 |
 | need access to | 需要访问……的权限 | `need` 是从句中的动词 | 2026-08-09 | 复习中 |
 | new account | 新账户 | `permissions assigned to the new account` | 2026-08-29 | 复习中 |
 | new system | 新系统 | `migrated to the new system` | 2026-09-22 | 复习中 |
@@ -81,6 +84,7 @@
 | provided by the applicant | 由申请人提供的 | 过去分词短语修饰前面的名词 | 2026-08-16 | 复习中 |
 | provided that | 条件是……；只要…… | `provided that no critical errors are reported` | 2026-09-15 | 复习中 |
 | release notes | 发布说明 | `the reviewer who checked the release notes` | 2026-08-25 | 复习中 |
+| reconnect to | 重新连接到 | `the backup server reconnects to the primary system` | 2026-09-28 | 复习中 |
 | reduce the speed | 降低速度 | 运动安全提示 | 2026-08-17 | 已理解 |
 | reported issue | 已报告／已反馈的问题 | `The reported issue has been resolved.` | 2026-08-22 | 复习中 |
 | reviewer | 审核人员 | `the reviewer who checked...` | 2026-08-25 | 复习中 |

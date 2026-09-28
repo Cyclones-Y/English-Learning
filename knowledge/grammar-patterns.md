@@ -313,6 +313,16 @@
 
 这里 `it` 是宾语，`synchronized with...` 表示宾语被维持的状态。
 
+遇到 `keep A synchronized with B` 时，按三个部分理解：
+
+- `keep`：执行者主动维持某种状态。
+- `A`：被维持状态的宾语。
+- `synchronized with B`：A 与 B 保持同步的状态。
+
+> The monitoring service keeps the backup server synchronized with the primary system.
+
+这里是“监控服务使备用服务器与主系统保持同步”，不是“监控服务与备用服务器保持同步”。
+
 ## 29. As Long As
 
 > The backup server will remain online as long as the primary system remains unstable.

@@ -196,7 +196,14 @@
 
 ## 29. 混淆 Server 与 System
 
-- 典型表现：连续把 `backup server` 译成“备份系统”，2026-09-22 又译成“备用服务”。
+- 典型表现：连续把 `backup server` 译成“备份系统”，2026-09-22 和 2026-09-28 又译成“备用服务”。
 - 原因：根据技术场景概括了整体功能，没有保留中心名词 `server` 的具体含义。
 - 纠正方法：`server` 固定译为“服务器”，`system` 译为“系统”，`service` 译为“服务”；先翻译中心名词，再处理 `backup`、`primary` 等修饰词。
-- 当前状态：重点复习；已连续三次出现，需要刻意固定 `server`、`system`、`service` 三个中心名词。
+- 当前状态：重点复习；第二句能准确区分三个词，但第一句仍再次混淆，说明尚未形成稳定反应。
+
+## 30. 颠倒 Keep A Synchronized with B 的关系
+
+- 典型表现：把 `the monitoring service keeps the backup server synchronized with it` 理解成“监控服务与备用服务器保持同步”。
+- 原因：没有先确认 `keeps` 后面的宾语，把执行者 `the monitoring service` 错当成了同步关系中的对象。
+- 纠正方法：先划分为“执行者 `the monitoring service` + 谓语 `keeps` + 宾语 `the backup server` + 宾语状态 `synchronized with it`”；再根据语义确定 `it` 指 `the primary system`。
+- 当前状态：新发现；后续继续用 `keep + 宾语 + 形容词／过去分词` 结构复习动作方向。
