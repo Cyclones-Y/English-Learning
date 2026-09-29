@@ -43,9 +43,10 @@
 | deleted by mistake | 被误删的 | `the records deleted by mistake` | 2026-08-29 | 复习中 |
 | dispense with | 摒弃；不再使用 | `dispensing with recurrence and convolutions` | 2026-09-01 | 复习中 |
 | document recovery steps | 记录恢复步骤 | `documented every recovery step` | 2026-09-08 | 复习中 |
+| during maintenance | 在维护期间 | 原句没有说明是谁的维护 | 2026-09-29 | 复习中 |
 | ensemble | 集成模型 | `including ensembles` | 2026-09-03 | 复习中 |
 | enter information manually | 手动录入信息 | `enter` 是录入，`manually` 是手动地 | 2026-08-10 | 复习中 |
-| ensure that | 确保…… | `must ensure that the temporary files have been deleted` | 2026-08-31 | 复习中 |
+| ensure that | 确保…… | `must ensure that the monitoring service...` | 2026-08-31 | 复习中 |
 | even if | 即使；哪怕 | 条件成立也不改变主句结论 | 2026-08-22 | 复习中 |
 | feel dizzy | 感到头晕 | 运动安全提示 | 2026-08-17 | 已理解 |
 | feature | 功能 | `The feature cannot be released.` | 2026-08-25 | 复习中 |
@@ -59,8 +60,11 @@
 | in case | 以防；万一；以备 | `in case the service failed` | 2026-09-11 | 复习中 |
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
+| is being updated | 正在被更新 | 进行时被动语态，动作正在进行 | 2026-09-29 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | keep a database online | 让数据库保持在线 | `kept the old database online` | 2026-09-11 | 复习中 |
+| keep A available | 使 A 保持可用 | A 是 `keep` 的宾语 | 2026-09-29 | 复习中 |
+| keep A connected to B | 使 A 与 B 保持连接 | `keeps the backup server connected to the primary system` | 2026-09-29 | 复习中 |
 | keep A synchronized with B | 使 A 与 B 保持同步 | A 是 `keep` 的宾语，B 是同步对象 | 2026-09-28 | 复习中 |
 | keep something up to date | 让某物保持最新状态 | `keeps its configuration up to date` | 2026-09-16 | 复习中 |
 | missing information | 缺失的信息 | `until the missing information is added` | 2026-08-11 | 已理解 |

@@ -199,11 +199,11 @@
 - 典型表现：连续把 `backup server` 译成“备份系统”，2026-09-22 和 2026-09-28 又译成“备用服务”。
 - 原因：根据技术场景概括了整体功能，没有保留中心名词 `server` 的具体含义。
 - 纠正方法：`server` 固定译为“服务器”，`system` 译为“系统”，`service` 译为“服务”；先翻译中心名词，再处理 `backup`、`primary` 等修饰词。
-- 当前状态：重点复习；第二句能准确区分三个词，但第一句仍再次混淆，说明尚未形成稳定反应。
+- 当前状态：有所改善；2026-09-29 三句均准确使用“监控服务”“备用服务器”和“主系统”，后续继续间隔复习。
 
-## 30. 颠倒 Keep A Synchronized with B 的关系
+## 30. 误判 Keep + 宾语 + 状态的关系
 
-- 典型表现：把 `the monitoring service keeps the backup server synchronized with it` 理解成“监控服务与备用服务器保持同步”。
+- 典型表现：把 `the monitoring service keeps the backup server synchronized with it` 理解成“监控服务与备用服务器保持同步”；又把 `keeps the backup server connected...` 理解成“保持监控服务跟备用服务器连接”。
 - 原因：没有先确认 `keeps` 后面的宾语，把执行者 `the monitoring service` 错当成了同步关系中的对象。
-- 纠正方法：先划分为“执行者 `the monitoring service` + 谓语 `keeps` + 宾语 `the backup server` + 宾语状态 `synchronized with it`”；再根据语义确定 `it` 指 `the primary system`。
-- 当前状态：新发现；后续继续用 `keep + 宾语 + 形容词／过去分词` 结构复习动作方向。
+- 纠正方法：先划分为“执行者 + `keep` + 宾语 + 宾语状态”，再处理状态中的介词对象；翻译时保留 `keep` 的“使……保持……”含义。
+- 当前状态：当日有明显改善；第一句仍颠倒关系，纠正后第二句和第三句已能正确理解动作方向，但第三句需补出“保持”的持续含义。

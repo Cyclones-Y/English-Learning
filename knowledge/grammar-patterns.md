@@ -323,6 +323,11 @@
 
 这里是“监控服务使备用服务器与主系统保持同步”，不是“监控服务与备用服务器保持同步”。
 
+同一结构中的状态还可以是普通形容词或其它过去分词短语：
+
+- `keep the backup server available`：使备用服务器保持可用。
+- `keep the backup server connected to the primary system`：使备用服务器与主系统保持连接。
+
 ## 29. As Long As
 
 > The backup server will remain online as long as the primary system remains unstable.
@@ -348,3 +353,15 @@
 - `remain + 状态`：主语自己继续处于该状态（`remain online`）。
 - `become + 状态`：主语进入新的状态（`becomes stable`）。
 - `be + 状态`：只说明当前状态，不强调延续或变化（`is unstable`）。
+
+## 30. 进行时被动语态
+
+> The primary system is being updated.
+
+`am/is/are being + 过去分词` 表示某个被动动作正在进行。完整谓语是 `is being updated`，不能只取 `is`、`being` 或 `updated`。
+
+对比：
+
+- `is being updated`：正在被更新，动作正在进行。
+- `has been updated`：已经被更新，动作已经完成。
+- `can be updated`：可以被更新，表示能力或可能性。
