@@ -28,6 +28,7 @@
 | broken server | 损坏的服务器 | `the contractor who replaced the broken server` | 2026-08-29 | 复习中 |
 | by email | 通过电子邮件 | `It cannot be sent by email.` | 2026-08-19 | 已理解 |
 | by Friday | 最迟在星期五 | 包含星期五当天，不等于必须早于星期五 | 2026-08-16 | 复习中 |
+| can be updated | 可以被更新 | 表示能力或可能性，不表示动作已发生 | 2026-10-19 | 复习中 |
 | can be stopped | 可以被停止 | 完整谓语包含 `can be`，不表示一定会停止 | 2026-09-28 | 复习中 |
 | come to a complete stop | 完全停止 | 常见于设备安全提示 | 2026-08-17 | 已理解 |
 | confidential files | 机密文件 | `access to confidential files` | 2026-08-09 | 已理解 |
@@ -53,6 +54,7 @@
 | generalize well to | 很好地泛化到…… | `generalizes well to other tasks` | 2026-09-03 | 复习中 |
 | gradually increase the speed | 逐渐提高速度 | 跑步机提示 | 2026-08-17 | 已理解 |
 | has expired | 已经过期 | `The document has expired.` | 2026-08-22 | 已理解 |
+| has been updated | 已经被更新 | 完成时被动语态，动作已经完成 | 2026-10-19 | 复习中 |
 | has been verified | 已经被核实 | `The information has been verified.` | 2026-08-16 | 复习中 |
 | if necessary | 如有必要；必要时 | `can be restored if necessary` | 2026-09-15 | 复习中 |
 | import information automatically | 自动导入信息 | 与手动录入形成对比 | 2026-08-10 | 已理解 |
@@ -60,7 +62,7 @@
 | in case | 以防；万一；以备 | `in case the service failed` | 2026-09-11 | 复习中 |
 | investigate the issue | 调查问题 | 常用于系统维护通知 | 2026-08-10 | 已理解 |
 | implement a fix | 实施修复方案 | `the developer who implemented the fix` | 2026-08-27 | 复习中 |
-| is being updated | 正在被更新 | 进行时被动语态，动作正在进行 | 2026-09-29 | 复习中 |
+| is being updated | 正在被更新 | 与 `has been updated`、`can be updated` 对比 | 2026-09-29 | 复习中 |
 | is no longer valid | 已经失效／不再有效 | `no longer` 表示“不再” | 2026-08-22 | 已理解 |
 | keep a database online | 让数据库保持在线 | `kept the old database online` | 2026-09-11 | 复习中 |
 | keep A available | 使 A 保持可用 | A 是 `keep` 的宾语 | 2026-09-29 | 复习中 |
@@ -120,3 +122,4 @@
 | warm up / warm-up | 热身／热身活动 | 前者常作动词，后者可作名词 | 2026-08-17 | 已理解 |
 | without further notice | 不再另行通知 | 不等于 `until further notice` | 2026-08-09 | 已理解 |
 | without waiting for assistance | 无需等待协助 | `restore the database without waiting...` | 2026-09-08 | 复习中 |
+| without stopping | 无需停止；在不停止的情况下 | `without stopping the monitoring service` | 2026-10-19 | 复习中 |
